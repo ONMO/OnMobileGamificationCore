@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "OnMobileGamificationAPISDK",
             url: "https://github.com/ONMO/OnMobileGamificationCore/releases/download/1.0.0/OnMobileGamificationAPISDK.xcframework.zip",
-            checksum: "4110bc729f1d7570bf4d24c1ed3e6832280b1566fa25c896afd44f349c9ba91f"
+            checksum: "2a55067c7366ae261d7bcee1698ae272cc5b6d794598c6e1cb5125f234ab9a5c"
         ),
     ]
 )
